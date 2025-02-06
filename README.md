@@ -21,6 +21,6 @@ Com apenas **HTML e JavaScript**, ele realiza o sorteio automaticamente e exibe 
 - **JavaScript puro** para realizar o sorteio e exibir os resultados.
 
 ## 🌐 Acesse o Site  
-👉 [Clique aqui para acessar](https://alexsonmichel.github.io/desafio-amigo-secreto/challenge-amigo-secreto_pt-main/index.html)
+👉 [Clique aqui para acessar](challenge-amigo-secreto_pt-main/index.html)
 
 Torne seu amigo secreto mais divertido com essa ferramenta simples e eficiente! ✨🎁
